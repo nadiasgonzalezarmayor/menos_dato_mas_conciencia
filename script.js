@@ -58,8 +58,8 @@ window.onload = function() {
     const sampleComment = document.createElement('div');
     sampleComment.classList.add('comment-card');
     sampleComment.innerHTML = `
-        <div class="comment-meta">Alejandro M. • Ayer</div>
-        <p>¡Día 3 completado! He borrado más de 4GB de vídeos duplicados en mi cuenta en la nube. Sorprende ver cómo acumulamos basura digital sin darnos cuenta[cite: 283, 289, 364].</p>
+        <div class="comment-meta">Vicente A. • Ayer</div>
+        <p>¡Día 3 completado! He borrado más de 4GB de vídeos duplicados en mi cuenta en la nube. Sorprende ver cómo acumulamos basura digital sin darnos cuenta.</p>
     `;
     commentsContainer.appendChild(sampleComment);
 };
